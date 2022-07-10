@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(0, 0, 0, 0.747);
+    color: rgb(158, 150, 78);
+    font-size: 2rem;
+    border: 10px solid rgba(0, 0, 0, 0.329);
+    border-radius: 30px;
+    text-align: center;
+
+}
+.lists {
+    margin: 0;
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+
+}
+a {
+    text-decoration: none;
+    padding: 8px 16px;
+    color: cadetblue;
+}
